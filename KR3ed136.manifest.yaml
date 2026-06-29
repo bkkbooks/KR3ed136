@@ -1,0 +1,1267 @@
+canonical_identifier: bkk:krp/KR3ed136/v1
+canonical_location: https://kanripo.org/bkk/KR3ed136/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 海上仙方後集
+  identifiers:
+    krp: KR3ed136
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed136.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed136_000.yaml, hash: 'sha256:a45891d51bbdd13beaed8247e2e85c67cac4fdd93224e5459e58cebfd5f168e6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed136_000.markers.yaml, hash: 'sha256:66378a8845563503bf13e8dde7fb5805c16b6560acbd14cf419772f8907a79c8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4046
+  label: 孫真人海上仙方後集
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d2
+    span:
+    - body
+    - 9
+    - 40
+  label: 第一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d3
+    span:
+    - body
+    - 40
+    - 71
+  label: 第二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d4
+    span:
+    - body
+    - 71
+    - 102
+  label: 第三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d5
+    span:
+    - body
+    - 102
+    - 133
+  label: 第四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d6
+    span:
+    - body
+    - 133
+    - 164
+  label: 第五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d7
+    span:
+    - body
+    - 164
+    - 195
+  label: 第六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d8
+    span:
+    - body
+    - 195
+    - 226
+  label: 第七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d9
+    span:
+    - body
+    - 226
+    - 257
+  label: 第八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d10
+    span:
+    - body
+    - 257
+    - 288
+  label: 第九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d11
+    span:
+    - body
+    - 288
+    - 319
+  label: 第十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d12
+    span:
+    - body
+    - 319
+    - 351
+  label: 第十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d13
+    span:
+    - body
+    - 351
+    - 383
+  label: 第十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d14
+    span:
+    - body
+    - 383
+    - 415
+  label: 第十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d15
+    span:
+    - body
+    - 415
+    - 447
+  label: 第十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d16
+    span:
+    - body
+    - 447
+    - 479
+  label: 第十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d17
+    span:
+    - body
+    - 479
+    - 511
+  label: 第十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d18
+    span:
+    - body
+    - 511
+    - 543
+  label: 第十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d19
+    span:
+    - body
+    - 543
+    - 575
+  label: 第十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d20
+    span:
+    - body
+    - 575
+    - 607
+  label: 第十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d21
+    span:
+    - body
+    - 607
+    - 639
+  label: 第二十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d22
+    span:
+    - body
+    - 639
+    - 672
+  label: 第二十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d23
+    span:
+    - body
+    - 672
+    - 705
+  label: 第二十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d24
+    span:
+    - body
+    - 705
+    - 738
+  label: 第二十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d25
+    span:
+    - body
+    - 738
+    - 771
+  label: 第二十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d26
+    span:
+    - body
+    - 771
+    - 804
+  label: 第二十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d27
+    span:
+    - body
+    - 804
+    - 837
+  label: 第二十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d28
+    span:
+    - body
+    - 837
+    - 870
+  label: 第二十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d29
+    span:
+    - body
+    - 870
+    - 903
+  label: 第二十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d30
+    span:
+    - body
+    - 903
+    - 936
+  label: 第二十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d31
+    span:
+    - body
+    - 936
+    - 968
+  label: 第三十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d32
+    span:
+    - body
+    - 968
+    - 1001
+  label: 第三十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d33
+    span:
+    - body
+    - 1001
+    - 1034
+  label: 第三十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d34
+    span:
+    - body
+    - 1034
+    - 1067
+  label: 第三十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d35
+    span:
+    - body
+    - 1067
+    - 1100
+  label: 第三十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d36
+    span:
+    - body
+    - 1100
+    - 1133
+  label: 第三十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d37
+    span:
+    - body
+    - 1133
+    - 1166
+  label: 第三十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d38
+    span:
+    - body
+    - 1166
+    - 1199
+  label: 第三十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d39
+    span:
+    - body
+    - 1199
+    - 1232
+  label: 第三十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d40
+    span:
+    - body
+    - 1232
+    - 1265
+  label: 第三十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d41
+    span:
+    - body
+    - 1265
+    - 1297
+  label: 第四十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d42
+    span:
+    - body
+    - 1297
+    - 1330
+  label: 第四十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d43
+    span:
+    - body
+    - 1330
+    - 1363
+  label: 第四十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d44
+    span:
+    - body
+    - 1363
+    - 1396
+  label: 第四十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d45
+    span:
+    - body
+    - 1396
+    - 1429
+  label: 第四十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d46
+    span:
+    - body
+    - 1429
+    - 1462
+  label: 第四十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d47
+    span:
+    - body
+    - 1462
+    - 1495
+  label: 第四十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d48
+    span:
+    - body
+    - 1495
+    - 1528
+  label: 第四十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d49
+    span:
+    - body
+    - 1528
+    - 1561
+  label: 第四十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d50
+    span:
+    - body
+    - 1561
+    - 1594
+  label: 第四十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d51
+    span:
+    - body
+    - 1594
+    - 1626
+  label: 第五十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d52
+    span:
+    - body
+    - 1626
+    - 1659
+  label: 第五十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d53
+    span:
+    - body
+    - 1659
+    - 1692
+  label: 第五十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d54
+    span:
+    - body
+    - 1692
+    - 1725
+  label: 第五十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d55
+    span:
+    - body
+    - 1725
+    - 1758
+  label: 第五十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d56
+    span:
+    - body
+    - 1758
+    - 1791
+  label: 第五十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d57
+    span:
+    - body
+    - 1791
+    - 1824
+  label: 第五十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d58
+    span:
+    - body
+    - 1824
+    - 1857
+  label: 第五十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d59
+    span:
+    - body
+    - 1857
+    - 1890
+  label: 第五十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d60
+    span:
+    - body
+    - 1890
+    - 1923
+  label: 第五十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d61
+    span:
+    - body
+    - 1923
+    - 1955
+  label: 第六十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d62
+    span:
+    - body
+    - 1955
+    - 1988
+  label: 第六十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d63
+    span:
+    - body
+    - 1988
+    - 2021
+  label: 第六十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d64
+    span:
+    - body
+    - 2021
+    - 2054
+  label: 第六十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d65
+    span:
+    - body
+    - 2054
+    - 2087
+  label: 第六十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d66
+    span:
+    - body
+    - 2087
+    - 2120
+  label: 第六十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d67
+    span:
+    - body
+    - 2120
+    - 2153
+  label: 第六十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d68
+    span:
+    - body
+    - 2153
+    - 2186
+  label: 第六十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d69
+    span:
+    - body
+    - 2186
+    - 2219
+  label: 第六十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d70
+    span:
+    - body
+    - 2219
+    - 2252
+  label: 第六十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d71
+    span:
+    - body
+    - 2252
+    - 2284
+  label: 第七十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d72
+    span:
+    - body
+    - 2284
+    - 2317
+  label: 第七十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d73
+    span:
+    - body
+    - 2317
+    - 2350
+  label: 第七十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d74
+    span:
+    - body
+    - 2350
+    - 2383
+  label: 第七十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d75
+    span:
+    - body
+    - 2383
+    - 2416
+  label: 第七十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d76
+    span:
+    - body
+    - 2416
+    - 2449
+  label: 第七十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d77
+    span:
+    - body
+    - 2449
+    - 2482
+  label: 第七十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d78
+    span:
+    - body
+    - 2482
+    - 2515
+  label: 第七十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d79
+    span:
+    - body
+    - 2515
+    - 2548
+  label: 第七十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d80
+    span:
+    - body
+    - 2548
+    - 2581
+  label: 第七十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d81
+    span:
+    - body
+    - 2581
+    - 2613
+  label: 第八十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d82
+    span:
+    - body
+    - 2613
+    - 2646
+  label: 第八十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d83
+    span:
+    - body
+    - 2646
+    - 2679
+  label: 第八十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d84
+    span:
+    - body
+    - 2679
+    - 2712
+  label: 第八十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d85
+    span:
+    - body
+    - 2712
+    - 2745
+  label: 第八十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d86
+    span:
+    - body
+    - 2745
+    - 2778
+  label: 第八十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d87
+    span:
+    - body
+    - 2778
+    - 2811
+  label: 第八十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d88
+    span:
+    - body
+    - 2811
+    - 2844
+  label: 第六十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d89
+    span:
+    - body
+    - 2844
+    - 2877
+  label: 第八十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d90
+    span:
+    - body
+    - 2877
+    - 2910
+  label: 第八十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d91
+    span:
+    - body
+    - 2910
+    - 2942
+  label: 第九十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d92
+    span:
+    - body
+    - 2942
+    - 2975
+  label: 第九十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d93
+    span:
+    - body
+    - 2975
+    - 3008
+  label: 第九十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d94
+    span:
+    - body
+    - 3008
+    - 3041
+  label: 第九十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d95
+    span:
+    - body
+    - 3041
+    - 3074
+  label: 第九十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d96
+    span:
+    - body
+    - 3074
+    - 3107
+  label: 第九十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d97
+    span:
+    - body
+    - 3107
+    - 3140
+  label: 第九十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d98
+    span:
+    - body
+    - 3140
+    - 3173
+  label: 第九十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d99
+    span:
+    - body
+    - 3173
+    - 3206
+  label: 第九十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d100
+    span:
+    - body
+    - 3206
+    - 3239
+  label: 第九十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d101
+    span:
+    - body
+    - 3239
+    - 3271
+  label: 第一百證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d102
+    span:
+    - body
+    - 3271
+    - 3304
+  label: 第一百一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d103
+    span:
+    - body
+    - 3304
+    - 3337
+  label: 第一百二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d104
+    span:
+    - body
+    - 3337
+    - 3370
+  label: 第一百三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d105
+    span:
+    - body
+    - 3370
+    - 3403
+  label: 第一百四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d106
+    span:
+    - body
+    - 3403
+    - 3436
+  label: 第一百五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d107
+    span:
+    - body
+    - 3436
+    - 3469
+  label: 第一百六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d108
+    span:
+    - body
+    - 3469
+    - 3502
+  label: 第一百七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d109
+    span:
+    - body
+    - 3502
+    - 3535
+  label: 第一百八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d110
+    span:
+    - body
+    - 3535
+    - 3568
+  label: 第一百九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d111
+    span:
+    - body
+    - 3568
+    - 3601
+  label: 第一百十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d112
+    span:
+    - body
+    - 3601
+    - 3635
+  label: 第一百十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d113
+    span:
+    - body
+    - 3635
+    - 3669
+  label: 第一百十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d114
+    span:
+    - body
+    - 3669
+    - 3703
+  label: 第一百十三證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d115
+    span:
+    - body
+    - 3703
+    - 3737
+  label: 第一百十四證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d116
+    span:
+    - body
+    - 3737
+    - 3771
+  label: 第一百十五證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d117
+    span:
+    - body
+    - 3771
+    - 3805
+  label: 第一百十六證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d118
+    span:
+    - body
+    - 3805
+    - 3839
+  label: 第一百十七證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d119
+    span:
+    - body
+    - 3839
+    - 3873
+  label: 第一百十八證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d120
+    span:
+    - body
+    - 3873
+    - 3907
+  label: 第一百十九證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d121
+    span:
+    - body
+    - 3907
+    - 3941
+  label: 第一百二十證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d122
+    span:
+    - body
+    - 3941
+    - 3976
+  label: 第一百二十一證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d123
+    span:
+    - body
+    - 3976
+    - 4011
+  label: 第一百二十二證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed136_jc_000-d2d124
+    span:
+    - body
+    - 4011
+    - 4046
+  label: 第一百二十三證
+  type: section
+  level: 2
+hash: sha256:630602626978c5ecf5e3be0f5d42c892b25351ffc78be68f9c1b1d4c2891eb24
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
