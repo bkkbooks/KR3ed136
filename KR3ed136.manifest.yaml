@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed136/v1
 canonical_location: https://kanripo.org/bkk/KR3ed136/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 海上仙方後集
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed136_000.yaml, hash: 'sha256:cc728539fcf5a5046e1c6ec12061a003a9b1ae87006217c06b471d0fc810beee'}
+  - {seq: 0, filename: KR3ed136_000.yaml, hash: 'sha256:1a45a5c01ef6fac0f05b7119ab1d4fd80362e93fea552534dc2c1a1d0610b886'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed136_000.markers.yaml, hash: 'sha256:ea7be6a4cbae75b4f3e9be0fbb5765a2b0d5bd4145501451d8ce5e9258c0b3de'}
+  - {seq: 0, role: markers, filename: assets/KR3ed136_000.markers.yaml, hash: 'sha256:174554b50f327fbae998f1646465242a8e3f0e7be1abb88fe2e8658aee4e5749'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1261,4 +1261,7 @@ table_of_contents:
   label: 第一百二十三證
   type: section
   level: 2
-hash: sha256:856a6db83f448ac66b871dac33eb8328a78776bb5b0e40279839402a1ec56a67
+hash: sha256:7f63155b9aa37f3eded5ac11281ac0abb4216f9297840ecd6adfd8c5c26805df
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
